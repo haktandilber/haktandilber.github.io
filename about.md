@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Haktan. I'm studying Computer Engineering at Gebze Technical University. Currently I'm on my third year. Here I will try to post some solutions to the problems I encounter while coding and building software.
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+namesurname@gmail.com
