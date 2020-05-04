@@ -15,7 +15,7 @@ If you want to create good looking documents in LaTeX but don't want to deal wit
 
 - ### Converting and merging PDF files: [SmallPDF](https://smallpdf.com)
 
-This site has a lot of features to modify, transform, convert PDF files. I frequently use the PDF to Excel feature to be able to interact with the tables on PDF files. I also find the merge PDF files pretty useful. There are paid subscriptions for additional features
+This site has a lot of features to modify, transform, convert PDF files. I frequently use the PDF to Excel feature to be able to interact with the tables on PDF files. I also find the merge PDF files pretty useful. There are paid subscriptions for additional features.
 
 - ### Upscaling digital art and photos: [waifu2x](http://waifu2x.udp.jp/index.html)
 
@@ -27,7 +27,7 @@ I think this one is well-known but it is a really useful site for sending files.
 
 - ### Creating dummy text: [Lorem Ipsum](https://lipsum.com)
 
-A cool looking Latin dummy-text creator. Great for placing temporary text on websites, applications to see how it would look.
+A cool looking Latin dummy-text creator. Great for placing temporary text on websites and applications to see how it would look.
 
 
 
