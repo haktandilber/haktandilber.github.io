@@ -5,7 +5,7 @@ title: Useful online tools that I frequently use
 
 In this post I will mention some convinient websites I use while working on projects, documents etc.
 
-1. [Diagram Editor](https://diagrameditor.com) diagrameditor.com
+1. [Diagram Editor](https://diagrameditor.com) 
 
 Most of the online diagram editors on the web are not free. And most of the free sites are either really basic or require memberships. This one works well for me because it has good tools for making UML charts. 
 
