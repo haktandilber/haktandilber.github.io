@@ -3,7 +3,7 @@ layout: post
 title: Useful online tools that I frequently use
 ---
 
-In this post I will mention some convinient websites I use while working on projects, documents etc.
+In this post I will mentioned some convinient websites I use while working on projects, documents etc.
 
 - [Diagram Editor](https://diagrameditor.com) 
 
