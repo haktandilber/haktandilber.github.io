@@ -28,6 +28,7 @@ These are some resources for learning Data Structures and Algorithms. Some subje
     * [Sorting Animations with Comparisons](http://sorting.at/)
     * [Comparison Sort Visualizations](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
     * [Quick Sort Visualization](http://me.dt.in.th/page/Quicksort/)
+    * [Heap Sort Visualization](https://www.cs.usfca.edu/~galles/visualization/HeapSort.html)
 
 - ### Self balancing trees:
     * [Red Black Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
@@ -36,9 +37,10 @@ These are some resources for learning Data Structures and Algorithms. Some subje
     * [Skiplist Lesson (PDF)](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/skiplists.pdf)
 
 - ### Graphs:
+    * [Graph Terminology and Representations](https://www.youtube.com/watch?v=c8P9kB1eun4)
     * [Graph Traversals BFS and DFS](https://www.youtube.com/watch?v=pcKY4hjDrxk)
-    * [Dijkstra Algorithm Lesson](https://www.youtube.com/watch?v=XB4MIexjvY0)
-    * [Dijkstra Algorithm Lesson](https://www.youtube.com/watch?v=pVfj6mxhdMw)
+    * [Dijkstra Algorithm Lesson (on directed graph)](https://www.youtube.com/watch?v=XB4MIexjvY0)
+    * [Dijkstra Algorithm Lesson (on undirected graph)](https://www.youtube.com/watch?v=pVfj6mxhdMw)
 
 
 
