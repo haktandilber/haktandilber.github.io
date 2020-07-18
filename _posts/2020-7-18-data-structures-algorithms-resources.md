@@ -3,7 +3,7 @@ layout: post
 title: Great Resources for Data Structures and Algorithms
 ---
 
-    ⋅⋅⋅These are some resources for learning Data Structures and Algorithms. Some subjects on Data Structures are hard to understand without good examples and visualizations. Most of the sites and videos on the Youtube are not good on these subjects because they only include basic examples and sometimes wrong ones. So I gathered some links that helped me understand them.
+These are some resources for learning Data Structures and Algorithms. Some subjects on Data Structures are hard to understand without good examples and visualizations. Most of the sites and videos on the Youtube are not good on these subjects because they only include basic examples and sometimes wrong ones. So I gathered some links that helped me understand them.
 
 - ### Lists: 
     * [Linked Lists document](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html)
